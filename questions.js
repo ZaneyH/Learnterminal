@@ -13,5 +13,5 @@ console.log(`I study ${answers.study} `)
 console.log(`I am ${answers.occupation} `)
 console.log(`My id number is ${answers.Id} `)
 })
-
+ 
 
